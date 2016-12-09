@@ -1,0 +1,13 @@
+.header{
+    background: green;
+    height:1000px;
+}
+.box{
+  width:60px;
+  height:60px; 
+    border-radius:50%;
+   position: fixed; 
+  background: red;
+  top: 530px;
+  right: 50px;
+}
